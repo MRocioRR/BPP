@@ -1,7 +1,5 @@
 ### Buenas Prácticas de programación con Python
-
 ### Alumna: María del Rocío Roldán de la Rosa
-
 ### 22/05/2023
 
 
