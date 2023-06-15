@@ -7,17 +7,12 @@
 
 
 # 1. Crea una funcion que pida por pantalla un número al usuario y que  controle mediante excepciones lo siguiente:
-
 #    a. Solo se podrá introducir numeros enteros
-
 #    b. Si el numero es mayor de 10 lanza una excepción con raise la cual hayas creado previamente mediante ‘class 
-
 #    Miexcepcion(Exception):’
-
-# 2. Abre un fichero .txt y controla mediante excepciones las diferentes casuisticas para que el programa no termine de forma inesperada. 
-
+# 2. Abre un fichero .txt y controla mediante excepciones las diferentes casuisticas para que el programa no termine
+#    de forma inesperada. 
 #   Utiliza el finally para cerrar el fichero
-
 
 # 1- Función para solicitar un número entero al usuario y controlar excepciones:
 class MiExcepcion(Exception):
